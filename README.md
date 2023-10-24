@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Habib ur Rehman Owasi
 =============================================================================================================================================
 
-Data Science for Healthcare and Clinical Informatics
+Master of Data Science for Healthcare and Clinical Informatics
 ----------------------------------------------------
 
 * 🌍  I'm based in Bangkok
@@ -10,6 +10,17 @@ Data Science for Healthcare and Clinical Informatics
 * 🤝  I'm open to collaborating on Data Science Projects
 * ⚡  Sherlock Holmes: transforming the ordinary into extraordinary that others overlook
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ML/DL
+- 🌱 I’m currently learning Medical Imaging Analysis
+- 👯 I’m looking to collaborate on Data Science Projects
+- 🤔 I’m looking for help with NLP EMR
+- 💬 Ask me about Transitioning into Data Science
+- 📫 How to reach me: owaisihabib300@gmail.com
+- ⚡ Fun fact: Like a modern-day Sherlock Holmes, I sift through the data, unearthing insights that others might overlook, transforming the ordinary into extraordinary conclusions
+-->
+  
 ### Skills
 
 
@@ -35,14 +46,4 @@ Data Science for Healthcare and Clinical Informatics
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
