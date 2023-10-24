@@ -8,17 +8,10 @@ Master of Data Science for Healthcare and Clinical Informatics
 * ✉️  You can contact me at [owaisihabib300@gmail.com](mailto:owaisihabib300@gmail.com)
 * 🧠  I'm learning Medical Imaging Analysis
 * 🤝  I'm open to collaborating on Data Science Projects
-* ⚡  Sherlock Holmes: transforming the ordinary into extraordinary that others overlook
+* 💬 Ask me about Transitioning into Data Science
+* ⚡  Fun fact: Like a modern-day Sherlock Holmes, I sift through the data, unearthing insights that others might overlook, transforming the ordinary into extraordinary 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ML/DL
-- 🌱 I’m currently learning Medical Imaging Analysis
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with NLP EMR
-- 💬 Ask me about Transitioning into Data Science
-- 📫 How to reach me: owaisihabib300@gmail.com
-- ⚡ Fun fact: Like a modern-day Sherlock Holmes, I sift through the data, unearthing insights that others might overlook, transforming the ordinary into extraordinary conclusions
+conclusions
 -->
   
 ### Skills
