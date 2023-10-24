@@ -4,6 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master of Data Science for Healthcare and Clinical Informatics
 ----------------------------------------------------
 
+🌱 My Journey
+I embarked on a transformative journey at COMSATS University Islamabad, where I pursued a Bachelor of Science in Bioinformatics. This discipline was a crucible for my dual passions: biology and computing. Excelling in this rigorous environment, I graduated with a high GPA of 3.66/4 and was honored with a bronze medal for academic excellence. My pinnacle during this period was a groundbreaking final year project where I delved into machine learning algorithms to predict moonlighting proteins, unraveling the immense potential of data in decoding intricate biological enigmas.
+
+💻 Life Before Data Science
+My path wasn't always clear; I've worn many hats. From web development using HTML, CSS, and ASP.NET MVC to freelancing for over five years, every experience was a building block. Freelancing wasn't just a job; it was my foray into the nuanced arts of time management, client communication, and adaptive thinking.
+
+Teaching others through YouTube, exploring the secure confines of blockchain technology, particularly its implications in safeguarding healthcare data, were ventures that didn't necessarily skyrocket but were invaluable learning curves. These endeavors have not only shaped my perspective but also underscored the importance of perpetual learning.
+
+🚀 Merging Passions: Healthcare and Data
+Post-graduation, I stepped into the realm of healthcare as a Medical Sales Officer at Sami Pharmaceuticals. It wasn't merely a sales role; it was my initiation into the real-world impact of healthcare services and the instrumental role of empathy and communication in understanding patient requirements.
+
+As I delved deeper into the industry, it became evident that the nexus of healthcare's future was data. Eager to bridge my background with emerging trends, I pursued a Google-certified data analytics course through Coursera, unraveling the latent potential of data in steering decisions and prognosticating needs.
+
+This revelation propelled me to further specialize with a Master of Science in Data Science for Healthcare and Clinical Informatics at Mahidol University, Thailand, marking the onset of my journey in healthcare data science.
+
+✨ Future Aspirations
+Now, armed with a blend of diverse experiences, technical acumen, and an unquenchable thirst for knowledge, I am poised to explore innovative horizons in healthcare data science. I am enthusiastic about harnessing the power of data to unravel insights that reside at the intersection of technology and patient care, driving informed decision-making, and pioneering solutions for tomorrow's healthcare challenges.
+
+Let's connect! Feel free to reach out as I'm always open for collaboration, discussion, and new opportunities.
+
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [owaisihabib300@gmail.com](mailto:owaisihabib300@gmail.com)
 * 🧠  I'm learning Medical Imaging Analysis
