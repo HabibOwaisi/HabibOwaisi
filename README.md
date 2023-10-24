@@ -10,8 +10,6 @@ Master of Data Science for Healthcare and Clinical Informatics
 * 🤝  I'm open to collaborating on Data Science Projects
 * 💬 Ask me about Transitioning into Data Science
 * ⚡  Fun fact: Like a modern-day Sherlock Holmes, I sift through the data, unearthing insights that others might overlook, transforming the ordinary into extraordinary 
-
-conclusions
 -->
   
 ### Skills
