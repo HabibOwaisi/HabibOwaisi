@@ -5,9 +5,9 @@ Master of Data Science for Healthcare and Clinical Informatics
 ----------------------------------------------------
 
 # My Journey 🛤️
-I started my adventure in bioinformatics at COMSATS University Islamabad. It was cool to learn where biology and computers meet. I did really well there and even got a medal! My final project opened my eyes to how computers can solve big problems in biology.
+I started my adventure in bioinformatics. It was cool to learn where biology and computers meet. 
 
-After that, I tried a bunch of stuff! I made websites, worked on different projects, and freelanced for a while, which taught me a lot. I also dipped my toes into teaching and blockchain but realized my real passion was somewhere else.
+After that, I tried a bunch of stuff! I made websites, worked on different projects, and freelanced for a while, which taught me a lot.
 
 I worked in medical sales for some time, and it hit me: data is changing healthcare big time. That sparked my interest, and I decided to learn more about data science through online courses. Now, I'm all about healthcare data science, studying even more to make a real splash in the field.
 
